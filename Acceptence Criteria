@@ -1,0 +1,22 @@
+Acceptance Criteria for daraz online shopping
+
+Login: 
+1 customer should have valid phone number, google account or facebook account for signup
+2 If the customer signup with valid phone number, they will receive an OTP. Then they should correctly fill-up the OTP box.
+3 If the customer signup with valid email or facebook account, they will receive verification message. Then they should accept. 
+4. Customer should input correct information and strong password. 
+5 Phone number or Email and password should be correct while login.
+
+Order:
+1 if customer select a product, product details, image, stock, review and seller info should be displayed properly.
+2 When customer likes the product but wants to order later, customer should click ‘Add to Cart’ after select the product and quantity. 
+3. If customer wants to order, customer should click ‘Buy Now’ then select the product and quantity. 
+4. customer should re-check contact info and location is correct. If customer wants to choose pickup option they should select a nearby hub location.
+4. total cost should be shown properly by correct calculation. If there has any voucher like discount or free shipping, net cost will be shown by deducting a certain percentage from the total cost.
+5. If there is a cashback offer for payments on bKash, a certain portion of the payment amount will be returned to the account from which the payment was made subject to conditions.
+
+Search: 
+1 The search function should return results that exactly match the entered search query.
+2 It should also return results that partially match the search query (e.g., with at least three matching characters). 
+3 Results should be relevant to the search query, prioritizing the most pertinent matches.
+4 When no results are found, the system should clearly indicate this to the user, potentially offering suggestions for related searches or alternative actions. 
